@@ -1,0 +1,16 @@
+{
+  "name": "Zelda-BOTW-ui",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "A ui theme loosly based on the BOTW color scheme.",
+  "keywords": [
+	  "zelda",
+    "ui",
+    "theme"
+  ],
+  "repository": "https://github.com/packages/Zelda-BOTW-Theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
